@@ -1,3 +1,4 @@
+#!/bin/bash
 #soultion 1
 sed '10q;d' file.txt
 
